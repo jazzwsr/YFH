@@ -4,7 +4,7 @@
 {
 	"resultCount": 1,
 	"results": [{
-		"version": "1.0.1",
+		"version": "1.0.0",
 		"releaseNotes": "1.修改界面风格\n2.添加更新日志提示"
 	}]
 }
